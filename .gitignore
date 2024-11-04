@@ -1,0 +1,7 @@
+/.env
+/.venv/
+/poetry.lock
+/db/
+/.gradio/
+.idea/
+**/__pycache__/
